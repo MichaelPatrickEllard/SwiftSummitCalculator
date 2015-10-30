@@ -1,0 +1,88 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 10,
+          "top" : 10,
+          "right" : 10,
+          "left" : 10
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "OSXbutton.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 20,
+          "top" : 20,
+          "right" : 20,
+          "left" : 20
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "OSXbutton@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 10,
+          "top" : 10,
+          "right" : 10,
+          "left" : 10
+        }
+      },
+      "idiom" : "mac",
+      "filename" : "OSXbutton-1.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 20,
+          "top" : 20,
+          "right" : 20,
+          "left" : 20
+        }
+      },
+      "idiom" : "mac",
+      "filename" : "OSXbutton@2x-1.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
