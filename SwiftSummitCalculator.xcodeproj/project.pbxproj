@@ -42,10 +42,10 @@
 		E32B28181B4F75EA006BA87A /* App Code and Assets */ = {
 			isa = PBXGroup;
 			children = (
-				E36AD1B61BE287A40017651A /* AppDelegate.swift */,
 				E36A29DB1A78113000B85188 /* Model.swift */,
-				E3AC173B1A76CB0B00023D91 /* ViewController.swift */,
 				E3DA420A1BDF4B3A00837DAA /* Assets.xcassets */,
+				E3AC173B1A76CB0B00023D91 /* ViewController.swift */,
+				E36AD1B61BE287A40017651A /* AppDelegate.swift */,
 			);
 			path = "App Code and Assets";
 			sourceTree = "<group>";
@@ -65,8 +65,8 @@
 				E31E3D6E1B52E50800E4B6D2 /* README.md */,
 				E32B28181B4F75EA006BA87A /* App Code and Assets */,
 				E3AC17361A76CB0B00023D91 /* OSXCalculator */,
-				E35D28CD1BE322ED00EC107C /* Resources */,
 				E3AC17351A76CB0B00023D91 /* Products */,
+				E35D28CD1BE322ED00EC107C /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -82,17 +82,9 @@
 			isa = PBXGroup;
 			children = (
 				E3AC173F1A76CB0B00023D91 /* Main.storyboard */,
-				E3AC17371A76CB0B00023D91 /* Supporting Files */,
-			);
-			path = OSXCalculator;
-			sourceTree = "<group>";
-		};
-		E3AC17371A76CB0B00023D91 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
 				E3AC17381A76CB0B00023D91 /* Info.plist */,
 			);
-			name = "Supporting Files";
+			path = OSXCalculator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
